@@ -2,25 +2,9 @@
 A Python GUI project that checks the strength of passwords based on different security rules.
 
 ## Features
- Predicts password strength as:
- <br>
-    Weak Password
+ Predicts password strength as: Weak Password, Medium Password, Strong Password
     <br>
-    Medium Password
-    <br>
-    Strong Password
-    <br>
- Checks for:
- <br>
-    Uppercase letters
-    <br>
-    Lowercase letters
-    <br>
-    Numbers
-    <br>
-    Special characters
-    <br>
-    Minimum password length
+ Checks for: Uppercase letters, Lowercase letters, Numbers, Special characters, Minimum password length
     <br>
  Built using Tkinter GUI
  <br>
